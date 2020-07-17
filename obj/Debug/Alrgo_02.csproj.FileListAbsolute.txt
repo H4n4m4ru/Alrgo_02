@@ -1,0 +1,10 @@
+c:\users\花丸\documents\visual studio 2013\Projects\Alrgo_02\bin\Debug\Alrgo_02.exe.config
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\bin\Debug\Alrgo_02.exe
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\bin\Debug\Alrgo_02.pdb
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.Form1.resources
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.Properties.Resources.resources
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.csproj.GenerateResource.Cache
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.exe
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.pdb
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.Form2.resources
+C:\Users\花丸\documents\visual studio 2013\Projects\Alrgo_02\obj\Debug\Alrgo_02.csprojResolveAssemblyReference.cache
